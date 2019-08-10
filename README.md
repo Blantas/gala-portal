@@ -1,1 +1,1 @@
-# gala-portal
+# Telia - Išmanioji Televizija
